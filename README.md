@@ -1,2 +1,2 @@
 # daily-coding-challenges-fcc
-Daily Coding Challenges from freecodecamp
+Daily Coding Challenges dari freeCodeCamp dengan bahasa pemrograman Javascript
